@@ -1627,7 +1627,7 @@
           class="bg-gray-200 border-b-8 h-1/6 border-l-8 border-gray-400 border-r-8 border-t-8 flex-col"
         >
           <div
-            class="bg-white border-4 border-green-400 w-44 mt-20 h-20 ml-44 text-center text-4xl text-black"
+            class="bg-white border-4 border-green-400 w-44 mt-20 h-20 lg:ml-44 ml-5 text-center text-4xl text-black"
           >
             {{ floarNumberr8 }}
           </div>
